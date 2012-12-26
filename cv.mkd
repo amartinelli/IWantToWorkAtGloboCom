@@ -1,7 +1,10 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Área de Entretenimento
+Área de Webmedia
+Plataforma de Personalização
+Plataforma de Comentários
 
 __Dicas:__
 * Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
@@ -9,7 +12,107 @@ __Dicas:__
 CV
 ==
 
-[Preencha aqui o seu cv]
+*Dados Pessoais:*
+
+* André Martinelli Agunzi
+
+* 35 anos – brasileiro – casado
+
+* São Paulo – SP / Jardins
+* (11)3323-3454/(14) 8131-8181
+
+* andre@andre.eng.br/aagunzi@gmail.com
+
+
+*Perfil Profissional:*
+
+* 15 anos de experiência na área da informática
+* Gestão de equipes e fornecedores
+* Gerente de projetos de TI
+* Dimensionamento de infra-estrutura de TI
+* Elaboração de planos de contingência
+* Grande experiência na área de análise e desenvolvimento
+* Vivência na área comercial e de pré-projeto de solução em TI
+* Elaboração e desenvolvimento de sistemas Web com integração
+* Experiência em suporte de servidores Linux Gentoo/BSD
+
+
+*Formação Acadêmica:*
+
+Superior Engenharia de Computação- Universidade Paulita
+Concluído em Dezembro de 2000.
+
+
+*Experiência Profissional:*
+
+Neoassist Serviços na Internet (04/2001 – atualmente
+
+Empresa atuante na área de soluções voltadas à Internet
+Programador (04/2001 – 10/2003)
+Desenvolvimento de aplicações em PHP, Mysql provendo serviços à cliente no modelo ASP (Aplication Service Provider)
+Grande participação no desenvolvimento do sistema de auto-atendimento/crm na internet Neoassist.com servindo clientes como:
+
+* Epson do Brasil
+* Samsung do Brasil
+* Citroen do Brasil
+* Nike do Brasil
+* Lojas C&A
+* Bosch
+* Continental
+* Americanas.com (B2W)
+* Submarino.com (B2W)
+* Shoptime.com (B2W)
+* Sky
+* Uniflores
+* NetShoes
+* SPC Brasil
+* Senarc
+* Carrefour
+* Extra
+* Ajinomoto
+* Banco Real
+* Armani Brasil
+* Sacks
+* Mercedez-bens
+* Fnac
+* PortCasa
+* Kraft Foods
+* Multilaser
+* EletroShopping
+* Semp Toshiba
+* Ponto Frio
+* Comprafacil
+* B2W
+
+
+*Coordenador de Projetos (10/2003 - 05/2005)*
+
+* Sistemas de Workflow
+* Sistemas de crm
+* Sistemas Web integrando sistemas locais
+* Sistema de reconhecimento biométrico através de Internet
+* Gerente de TI (05/2005 – atual)
+* Gerencia de equipe de desenvolvimento
+* Gerencia de desenvolvimento de sistema único aplicado em 4 países (Brasil, Mexico, Argentina e Chile) 
+* Elaboração de custos de projeto
+* Cronograma de projetos
+* Contingência de aplicações
+* Gerenciamento de servidores (desenpenho, segurança, upgrades)
+* Seleção de proficionais para integrar equipe
+* Pré-requisitos para elaboração de projetos
+* Análise de tecnologia a ser utilizada
+
+*Cursos e Palestras:*
+
+* Conisli 2005 – Palestra sobre aplicações segura em PHP em modelo Aplication Service Provider
+* Curso de Firewall CheckPoint – Compugraf - 2007
+
+*Idiomas:*
+
+* Inglês – Intermediário
+* Espanhol - Básico
+
+
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
